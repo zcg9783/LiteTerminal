@@ -1,0 +1,9 @@
+<resources>
+    <!-- 手机默认尺寸 -->
+    <dimen name="text_size_primary">14sp</dimen>
+    <dimen name="button_width">80dp</dimen>
+
+    <!-- 小屏幕覆盖 -->
+    <dimen name="text_size_primary_small">12sp</dimen>
+    <dimen name="button_width_small">70dp</dimen>
+</resources>

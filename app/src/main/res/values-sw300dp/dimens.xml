@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="text_size_primary">@dimen/text_size_primary_small</dimen>
+    <dimen name="button_width">@dimen/button_width_small</dimen>
+</resources>
